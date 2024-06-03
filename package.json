@@ -1,0 +1,15 @@
+{
+  "name": "test-e2e-saucedemo",
+  "version": "1.0.0",
+  "description": "E2E projeto curso impacta",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  }
+}
